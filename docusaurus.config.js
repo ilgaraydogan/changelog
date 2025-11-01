@@ -101,18 +101,18 @@ const config = {
           {
             title: 'Uygulamalar',
             items: [
-              { label: 'Motivasyon Bombası', to: '/docs/motivasyon-bombasi/10.0-beta' },
-              { label: 'QuickScanPlus', to: '/docs/quickscanplus/3.2-beta' },
-              { label: 'DreamVerge', to: '/docs/dream-verge/1.0-beta' },
-              { label: 'MotivAI', to: '/docs/motivai/2' },
-              { label: 'Sonar', to: '/docs/sonar/1' },
+              { label: 'Motivasyon Bombası', to: '/docs/motivasyon-bombasi/' },
+              { label: 'QuickScanPlus', to: '/docs/quickscanplus/' },
+              { label: 'DreamVerge', to: '/docs/dream-verge/' },
+              { label: 'MotivAI', to: '/docs/motivai/' },
+              { label: 'Sonar', to: '/docs/sonar/' },
             ],
           },
           {
             title: 'Projeler ve Web Siteleri',
             items: [
               { label: 'ilgaraydogan.com', to: '/docs/ilgaraydogan.com/2025-update' },
-              { label: 'ilgaraydogan.com.tr', to: '/docs/ilgaraydogan.com.tr/2025-refresh' },
+              { label: 'ilgaraydogan.com.tr', to: '/docs/ilgaraydogan.com.tr/1-nov-25' },
             ],
           },
           {
