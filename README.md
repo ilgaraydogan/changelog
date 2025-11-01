@@ -1,41 +1,25 @@
-# Website
+# ILGARAYDOGAN Changelog
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Bu depo, **Ilgar Aydoğan** ekosistemindeki tüm uygulamaların ve web projelerinin değişiklik günlüğünü içerir.
 
-## Installation
+## 📱 Uygulamalar
+- Motivasyon Bombası  
+- QuickScanPlus  
+- MotivAI  
+- DreamVerge  
+- Sonar  
 
-```bash
-yarn
-```
+## 🌐 Web Projeleri
+- ilgaraydogan.com  
+- ilgaraydogan.com.tr  
 
-## Local Development
+## ⚙️ Sistem
+Bu depo [Docusaurus 2](https://docusaurus.io/) altyapısıyla çalışır ve **Vercel** üzerinde barındırılır.  
+Yeni sürümler `docs/[uygulama-adı]/[sürüm].md` formatında eklenir.
 
-```bash
-yarn start
-```
+## 🚀 Deploy
+Push edildiğinde otomatik olarak Vercel'e yayınlanır.  
+Edit this page → GitHub üzerinden anında güncelleme sağlar.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+---
+🪪 © 2025 Ilgar Aydoğan. Tüm hakları saklıdır.
