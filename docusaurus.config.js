@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ilgaraydogan/ilgaraydogan-docs/tree/main/',
+            'https://github.com/ilgaraydogan/changelog/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -61,7 +61,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ilgaraydogan/ilgaraydogan-docs/tree/main/',
+            'https://github.com/ilgaraydogan/changelog/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -89,8 +89,8 @@ const config = {
           src: 'img/ilgaraydogan-logo.svg',
         },
         items: [
-          {to: '/docs/motivasyon-bombasi/10.0-beta', label: 'Uygulamalar', position: 'left'},
-          {to: '/docs/ilgaraydogan.com/2025-update', label: 'Projeler', position: 'left'},
+          {to: '/docs/motivasyon-bombasi/', label: 'Uygulamalar', position: 'left'},
+          {to: '/docs/ilgaraydogan.com/', label: 'Projeler', position: 'left'},
           {href: 'https://ilgaraydogan.com.tr', label: 'Ana Site', position: 'right'},
           {href: 'https://github.com/ilgaraydogan', label: 'GitHub', position: 'right'},
         ],
