@@ -13,7 +13,7 @@ export default function Home() {
           <h1>Ilgar Aydoğan Değişiklik Günlükleri</h1>
           <p>Tüm iOS, macOS ve web projelerinin güncellemelerini tek yerden takip et.</p>
           <div className={styles.buttons}>
-            <Link className="button button--primary" to="/docs/motivasyon-bombasi/10.0-beta">
+            <Link className="button button--primary" to="/docs/motivasyon-bombasi/">
               🚀 Uygulamalara Git
             </Link>
           </div>
